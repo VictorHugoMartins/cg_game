@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637606646182040358
+      ticks: 637613718079943142
     m_Hash: 3086559985
   m_LockFileStatus:
     m_FilePath: C:/ufop/cg/cg_game/CG_Game/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637606646485076223
+      ticks: 637613718080274260
     m_Hash: 1889107499
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
